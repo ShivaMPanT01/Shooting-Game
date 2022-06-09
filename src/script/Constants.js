@@ -1,0 +1,11 @@
+export const PLAYER_1_HEALTH = 'player_1_health'
+export const PLAYER_2_HEALTH = 'player_2_health'
+export const RESET_GAME = 'resetGame'
+export const START_GAME = 'startGame'
+export const PLAYER_1_WIN_COUNT = 'player_1_win_count'
+export const PLAYER_2_WIN_COUNT = 'player_2_win_count'
+export const NEXT_ROUND = 'next_round'
+export const SUCCESS_MSG = 'successMsg'
+export const GAME_START = 'game_start'
+export const MAX_HEALTH = 100
+export const TOTAL_MATCHS = 5
